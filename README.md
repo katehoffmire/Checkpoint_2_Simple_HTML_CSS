@@ -1,1 +1,1 @@
-# Checkpoint_2_Simple_HTML_CSS
+# project_checkpoint_information_gathering
